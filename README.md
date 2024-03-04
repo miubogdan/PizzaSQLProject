@@ -12,6 +12,6 @@ The way I’m going to approach this task of designing out database and the tabl
 
 ## Part 2 – Writing custom SQL queries
 Writing queries that include total sales, average order value, sales by category, sales and orders by hour, calculated cost of every type of pizza and top 5 customers. 
-You can find the queries here.
+You can find the queries [here](https://github.com/miubogdan/PizzaSQLProject/blob/main/Queries.sql).
 
 
